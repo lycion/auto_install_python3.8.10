@@ -1,3 +1,4 @@
+sudo apt update
 
 mkdir -p $HOME/temp_remove_me
 cd $HOME/temp_remove_me
